@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/xg2353/bookdown_temp/edit/main/%s
-view: https://github.com/xg2353/bookdown_temp/blob/main/%s
+edit: https://github.com/xg2353/bookdown_temp/edit/master/%s
+view: https://github.com/xg2353/bookdown_temp/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
